@@ -8,7 +8,6 @@
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <p align="left">
-<img align="right" alt="Profile" style="border-radius:500px" width="250" src="https://avatars.githubusercontent.com/u/94746049?s=400&u=f9f7ab6ca85ee912bfd96f7e79421eb6a87e4252&v=4"></p>
 
 - 📫 How to reach me [Email](mailto:narayan97.nk@gmail.com) 
 
