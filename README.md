@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <p align="center" >
   <img src="[https://www.appjetty.com/blog/wp-content/uploads/2021/02/Flutter-App-Development-Basics-and-Benefits-3.png](https://unsplash.com/photos/a-computer-screen-with-a-logo-on-it-UYsBCu9RP3Y)" />
 </p>
@@ -11,7 +8,6 @@
 
 - 📫 How to reach me [Email](mailto:narayan97.nk@gmail.com) 
 
-- My Resume 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/narayan-chowdhary-378689251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shabanaspb" height="30" width="40" /></a>
