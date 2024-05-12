@@ -1,22 +1,5 @@
 ### Hi there 👋
 
-<!--
-*Narayan-Chowdhary/Narayan-Chowdhary* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 
 <p align="center" >
   <img src="[https://www.appjetty.com/blog/wp-content/uploads/2021/02/Flutter-App-Development-Basics-and-Benefits-3.png](https://unsplash.com/photos/a-computer-screen-with-a-logo-on-it-UYsBCu9RP3Y)" />
@@ -39,12 +22,15 @@ Here are some ideas to get you started:
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.ccom/javascript/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="react" width="40" height="40"/> </a>
-
+<a href="https://www.w3schools.ccom/javascript/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/> </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=node" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://expressjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=expressjs" alt="expressjs" width="40" height="40"/> </a>
+<a href="https://mongodb.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwindcss" width="40" height="40"/> </a>
+<a href="https://materialui.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=materialui" alt="materialui" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
 </p>
